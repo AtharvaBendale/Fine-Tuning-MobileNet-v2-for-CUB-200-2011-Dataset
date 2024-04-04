@@ -1,0 +1,47 @@
+INFO:root:Device used is : cuda:0
+INFO:root:Folder address detected for tarfile : CUB_200_2011
+INFO:root:Dataset extracted...
+INFO:root:Dataset splitted...
+INFO:root:Starting training the model...
+INFO:root:Test Accuracy: 25.98%
+INFO:root:Epoch 1/20, Training Loss: 4.6445, Training Accuracy: 7.317915084570245%, Test Loss: 3.2198, Test Accuracy: 25.98%
+INFO:root:Test Accuracy: 44.99%
+INFO:root:Epoch 2/20, Training Loss: 2.9971, Training Accuracy: 29.288919571971004%, Test Loss: 2.0629, Test Accuracy: 44.99%
+INFO:root:Test Accuracy: 54.12%
+INFO:root:Epoch 3/20, Training Loss: 2.2900, Training Accuracy: 42.112530203658956%, Test Loss: 1.6371, Test Accuracy: 54.12%
+INFO:root:Test Accuracy: 58.49%
+INFO:root:Epoch 4/20, Training Loss: 1.9289, Training Accuracy: 51.380738695201934%, Test Loss: 1.4502, Test Accuracy: 58.49%
+INFO:root:Test Accuracy: 62.35%
+INFO:root:Epoch 5/20, Training Loss: 1.6981, Training Accuracy: 55.88539868829824%, Test Loss: 1.3462, Test Accuracy: 62.35%
+INFO:root:Test Accuracy: 63.21%
+INFO:root:Epoch 6/20, Training Loss: 1.5326, Training Accuracy: 62.01242664825682%, Test Loss: 1.2771, Test Accuracy: 63.21%
+INFO:root:Test Accuracy: 67.58%
+INFO:root:Epoch 7/20, Training Loss: 1.4381, Training Accuracy: 62.53020365895754%, Test Loss: 1.1584, Test Accuracy: 67.58%
+INFO:root:Test Accuracy: 67.98%
+INFO:root:Epoch 8/20, Training Loss: 1.3167, Training Accuracy: 66.41353123921297%, Test Loss: 1.1291, Test Accuracy: 67.98%
+INFO:root:Test Accuracy: 68.85%
+INFO:root:Epoch 9/20, Training Loss: 1.2594, Training Accuracy: 66.91404901622369%, Test Loss: 1.1131, Test Accuracy: 68.85%
+INFO:root:Test Accuracy: 68.85%
+INFO:root:Epoch 10/20, Training Loss: 1.1678, Training Accuracy: 68.96789782533655%, Test Loss: 1.1150, Test Accuracy: 68.85%
+INFO:root:Test Accuracy: 69.07%
+INFO:root:Epoch 11/20, Training Loss: 1.1749, Training Accuracy: 70.31411805315844%, Test Loss: 1.0644, Test Accuracy: 69.07%
+INFO:root:Test Accuracy: 69.79%
+INFO:root:Epoch 12/20, Training Loss: 1.1068, Training Accuracy: 71.69485674836038%, Test Loss: 1.0631, Test Accuracy: 69.79%
+INFO:root:Test Accuracy: 70.77%
+INFO:root:Epoch 13/20, Training Loss: 1.0384, Training Accuracy: 73.09285467725233%, Test Loss: 1.0657, Test Accuracy: 70.77%
+INFO:root:Test Accuracy: 69.55%
+INFO:root:Epoch 14/20, Training Loss: 1.0133, Training Accuracy: 73.80048325854332%, Test Loss: 1.1262, Test Accuracy: 69.55%
+INFO:root:Test Accuracy: 71.24%
+INFO:root:Epoch 15/20, Training Loss: 0.9912, Training Accuracy: 74.18018639972385%, Test Loss: 1.0563, Test Accuracy: 71.24%
+INFO:root:Test Accuracy: 71.55%
+INFO:root:Epoch 16/20, Training Loss: 0.9542, Training Accuracy: 75.61270279599586%, Test Loss: 1.0143, Test Accuracy: 71.55%
+INFO:root:Test Accuracy: 70.52%
+INFO:root:Epoch 17/20, Training Loss: 0.9896, Training Accuracy: 75.04314808422507%, Test Loss: 1.1180, Test Accuracy: 70.52%
+INFO:root:Test Accuracy: 71.42%
+INFO:root:Epoch 18/20, Training Loss: 0.9544, Training Accuracy: 75.52640662754574%, Test Loss: 1.0339, Test Accuracy: 71.42%
+INFO:root:Test Accuracy: 71.99%
+INFO:root:Epoch 19/20, Training Loss: 0.8926, Training Accuracy: 77.16603382809804%, Test Loss: 1.0642, Test Accuracy: 71.99%
+INFO:root:Test Accuracy: 73.07%
+INFO:root:Epoch 20/20, Training Loss: 0.8202, Training Accuracy: 78.90921643079048%, Test Loss: 1.0316, Test Accuracy: 73.07%
+INFO:root:Training finished
+INFO:root:Model saved
