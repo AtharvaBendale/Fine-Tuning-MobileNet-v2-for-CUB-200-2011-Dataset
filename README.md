@@ -1,6 +1,6 @@
 ## Fine Tuning MobileNet-v2 for CUB-200-2011 Dataset
 ## Introduction
-This repo contains codes for fine tuning MobileNet-v2 on CUB_200_2011 datasets. MobileNet-V2 was chosen for fine-tuning because of its light nature, ofcourse other pretrained models like ResNets, VGGs, etc. can fit the data better due to their high complexity.
+This repo contains codes for fine-tuning MobileNet-v2 on CUB_200_2011 datasets. MobileNet-V2 was chosen for fine-tuning because of its lightweight nature. Of course, other pre-trained models like ResNets, VGGs, etc., can fit the data better because of their high complexity.
 
 The detailed report has been provided [here](./report.pdf). You can access the training logs in this [file](./training.log)
 ## Datasets
